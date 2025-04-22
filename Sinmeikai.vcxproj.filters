@@ -18,5 +18,20 @@
     <ClCompile Include="List01_01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Exercises01_01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercises01_02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="List01_11.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="List01_13.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercises01_07.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
